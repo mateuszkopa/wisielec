@@ -7,4 +7,5 @@ gra w wisielca w języku python
 > Released under [MIT](https://choosealicense.com/licenses/mit/) License.
 >
 > <> with ❤❤❤ for [Atom](https://atom.io)
+> 
 > <> with ❤❤❤ for [Replit](https://replit.com)
