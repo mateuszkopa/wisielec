@@ -1,5 +1,8 @@
+#podaj slowo
+print("Podaj słowo")
+slowo = input()
+
 #zmienne
-slowo = "wiktor"
 zycie = 7
 tablica = list(slowo)
 print("Gra w wisielca")
